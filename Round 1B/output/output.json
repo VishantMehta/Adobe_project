@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "input_documents": [
+            "transformers_survey.pdf",
+            "Attention.pdf",
+            "Bert.pdf",
+            "tech_report.pdf",
+            "distilbert_paper.pdf"
+        ],
+        "persona": "Final Year Computer Science Student",
+        "job_to_be_done": "Find key methods and architecture ideas in recent AI models for use in a mini project.",
+        "processing_timestamp": "2025-07-25 18:39:33.950943"
+    },
+    "extracted_sections": [
+        {
+            "document": "Bert.pdf",
+            "section_title": "for pre-training such models ( Howard and Ruder ,",
+            "importance_rank": 1,
+            "page_number": 3
+        },
+        {
+            "document": "transformers_survey.pdf",
+            "section_title": "Permission from IEEE must be obtained for all other uses, in",
+            "importance_rank": 2,
+            "page_number": 1
+        },
+        {
+            "document": "transformers_survey.pdf",
+            "section_title": "models, while [2] uses a CNN to extract information from",
+            "importance_rank": 3,
+            "page_number": 3
+        },
+        {
+            "document": "Attention.pdf",
+            "section_title": "reproduce the tables and figures in this paper solely for use in journalistic or",
+            "importance_rank": 4,
+            "page_number": 1
+        },
+        {
+            "document": "Attention.pdf",
+            "section_title": "performing models also connect the encoder and decoder through an attention",
+            "importance_rank": 5,
+            "page_number": 1
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Bert.pdf",
+            "refined_text": "for pre-training such models ( Howard and Ruder ,",
+            "page_number": 3
+        },
+        {
+            "document": "transformers_survey.pdf",
+            "refined_text": "Permission from IEEE must be obtained for all other uses, in",
+            "page_number": 1
+        },
+        {
+            "document": "transformers_survey.pdf",
+            "refined_text": "models, while [2] uses a CNN to extract information from",
+            "page_number": 3
+        },
+        {
+            "document": "Attention.pdf",
+            "refined_text": "reproduce the tables and figures in this paper solely for use in journalistic or",
+            "page_number": 1
+        },
+        {
+            "document": "Attention.pdf",
+            "refined_text": "performing models also connect the encoder and decoder through an attention",
+            "page_number": 1
+        }
+    ]
+}

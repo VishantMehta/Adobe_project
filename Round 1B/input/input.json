@@ -1,0 +1,35 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_yanshu01",
+    "test_case_name": "ai_student_mini_project",
+    "description": "AI Research Paper Collection for Student"
+  },
+  "documents": [
+    {
+      "filename": "transformers_survey.pdf",
+      "title": "A Survey on Transformers in NLP"
+    },
+    {
+      "filename": "Attention.pdf",
+      "title": "Attention is All You Need"
+    },
+    {
+      "filename": "Bert.pdf",
+      "title": "BERT: Pre-training Deep Bidirectional Transformers"
+    },
+    {
+      "filename": "tech_report.pdf",
+      "title": "Technical Report"
+    },
+    {
+      "filename": "distilbert_paper.pdf",
+      "title": "DistilBERT: Smaller Faster Cheaper"
+    }
+  ],
+  "persona": {
+    "role": "Final Year Computer Science Student"
+  },
+  "job_to_be_done": {
+    "task": "Find key methods and architecture ideas in recent AI models for use in a mini project."
+  }
+}
